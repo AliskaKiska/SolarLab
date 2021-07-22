@@ -1,0 +1,7 @@
+C:\Users\123\Desktop\Проги\C#\Pozdravlyalka\Pozdravlyalka\bin\Release\Pozdravlyalka.exe.config
+C:\Users\123\Desktop\Проги\C#\Pozdravlyalka\Pozdravlyalka\bin\Release\Pozdravlyalka.exe
+C:\Users\123\Desktop\Проги\C#\Pozdravlyalka\Pozdravlyalka\bin\Release\Pozdravlyalka.pdb
+C:\Users\123\Desktop\Проги\C#\Pozdravlyalka\Pozdravlyalka\obj\Release\Pozdravlyalka.g.resources
+C:\Users\123\Desktop\Проги\C#\Pozdravlyalka\Pozdravlyalka\obj\Release\Pozdravlyalka.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\Проги\C#\Pozdravlyalka\Pozdravlyalka\obj\Release\Pozdravlyalka.exe
+C:\Users\123\Desktop\Проги\C#\Pozdravlyalka\Pozdravlyalka\obj\Release\Pozdravlyalka.pdb
